@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body{
+
+    font-family: Nunito;
+}
+
+.card-text{    
+    overflow: hidden;
+       text-overflow: ellipsis;
+       display: -webkit-box;
+       -webkit-line-clamp: 2; /* number of lines to show */
+       -webkit-box-orient: vertical;
+}
+
+.nav-tabs .nav-link.active{
+    font-weight: bold;
+}
