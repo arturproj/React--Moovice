@@ -1,3 +1,5 @@
+<img src="https://github.com/arturproj/React--Moovice/blob/master/react-moovie.gif" alt="Bakery Gif" style="max-width:100%;">
+
 # React--Moovice
 Excercice chez Konexio
 
